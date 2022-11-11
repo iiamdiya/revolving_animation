@@ -1,3 +1,3 @@
 # revolving_animation
 
-Click on the balls in the circular part and you'll be able to see different animations.
+Click on the small circles in the circular portion in the center and you'll be able to see different animations.
